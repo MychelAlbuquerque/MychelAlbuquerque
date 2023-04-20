@@ -1,5 +1,5 @@
 <h1 align="left">Oi 👋, Eu sou Mychel Albuquerque</h1>
-<h4 align="left">Desenvolvedor web fullstack - Node.js, Docker, MySQL, MongoDB, Express, Typescript. <br/> Sou apaixonado por tecnologia e gosto de sempre estar aprendendo algo novo!</h4>
+<h4 align="left">Desenvolvedor web fullstack - Node.js, Docker, React.js, HTML, CSS, MySQL, MongoDB, Express, Typescript. <br/> Sou apaixonado por tecnologia e gosto de sempre estar aprendendo algo novo!</h4>
 
 - 📫 Como me encontrar: **mychelalbu@gmail.com**
 
